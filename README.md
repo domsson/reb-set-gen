@@ -2,7 +2,9 @@
 
 A little tool that reads in two text files. One contains a format string which 
 is expected to have two placeholders, `$BRAND` and `$IMAGE`. The other text 
-file is supposed to contain multiple lines, each being one "brand".
+file is supposed to contain multiple lines, each being one "brand". The tool 
+then produces a new file, which has the same amounts of lines as the "brands" 
+input file, but with each line being formatted according to the "formats" file.
 
 ## Dependencies
 
