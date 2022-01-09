@@ -1,0 +1,1 @@
+<figure><img src="/upload/surveys/{SID}/images/$IMAGE"><figcaption>$BRAND</figcaption></figure>
