@@ -42,6 +42,6 @@ command line options:
 
 Example:
 
-   ./reb-set-gen.py -f ./format.txt -b C:\Users\Gurt\Documents\IREM.txt -o C:\Users\Gurt\Documents\IREM-markenset.txt
+    ./reb-set-gen.py -f ./format.txt -b C:\Users\Gurt\Documents\IREM.txt -o C:\Users\Gurt\Documents\IREM-markenset.txt
 
 
